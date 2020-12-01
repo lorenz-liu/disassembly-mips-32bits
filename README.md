@@ -4,6 +4,8 @@ This is a handy tool to disassemble 32-bit hexadecimal raw code into MIPS instru
 
 So far, 10 instructions are supported: **addu, subu, or, ori, jal, jr, beq, lui, lw, sw, nop**
 
+* Special Notice: All the numbers appearing in the outcome MIPS codes are in decimal form. *
+
 *Example:*
 
 
