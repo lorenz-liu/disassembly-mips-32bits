@@ -437,6 +437,6 @@ void Disassemble_MIPS_32() {
 
 int main(void) {
     Disassemble_MIPS_32();
-	system("pause"); 
+    system("pause"); 
     return 0;
 }
